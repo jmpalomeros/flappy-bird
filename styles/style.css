@@ -23,3 +23,9 @@ body {
   align-items: center;
   margin: 50px;
 }
+
+/* para tener una pantalla en un momento especifico*/
+
+#my-canvas , #gameover-screen{
+  display: none; /*oculta estos elementos y todo lo interno, las dos pantallas*/
+}
